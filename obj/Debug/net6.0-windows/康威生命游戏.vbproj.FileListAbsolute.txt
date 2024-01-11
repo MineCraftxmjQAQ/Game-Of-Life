@@ -1,0 +1,17 @@
+C:\Users\19603\source\repos\康威生命游戏\bin\Debug\net6.0-windows\康威生命游戏.exe
+C:\Users\19603\source\repos\康威生命游戏\bin\Debug\net6.0-windows\康威生命游戏.deps.json
+C:\Users\19603\source\repos\康威生命游戏\bin\Debug\net6.0-windows\康威生命游戏.runtimeconfig.json
+C:\Users\19603\source\repos\康威生命游戏\bin\Debug\net6.0-windows\康威生命游戏.dll
+C:\Users\19603\source\repos\康威生命游戏\bin\Debug\net6.0-windows\康威生命游戏.pdb
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.vbproj.AssemblyReference.cache
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.Form1.resources
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.vbproj.GenerateResource.cache
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.AssemblyInfoInputs.cache
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.AssemblyInfo.vb
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.vbproj.CoreCompileInputs.cache
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.dll
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\refint\康威生命游戏.dll
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.pdb
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\康威生命游戏.genruntimeconfig.cache
+C:\Users\19603\source\repos\康威生命游戏\obj\Debug\net6.0-windows\ref\康威生命游戏.dll

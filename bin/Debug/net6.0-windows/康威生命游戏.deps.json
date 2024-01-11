@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "康威生命游戏/1.0.0": {
+        "runtime": {
+          "康威生命游戏.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "康威生命游戏/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
